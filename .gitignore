@@ -1,0 +1,27 @@
+# data and large outputs (too big for GitHub)
+data/
+baygaud/
+cube_stats/
+*.fits
+*.npz
+*.npy
+*.h5
+*.hdf5
+
+# vendored third-party package
+pycprops/
+
+# private notes
+research-notebook.md
+CLAUDE.md
+HB_TRANSFER.md
+.claude/
+
+# editor / system clutter
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# paper source is kept private
+*.tex

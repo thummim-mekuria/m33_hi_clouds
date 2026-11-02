@@ -1,0 +1,273 @@
+[08:23:16] snr_r15: 945 structures
+[08:24:10] snr_r15: adapter built, 709 leaves; running cloudstering()
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+- Creating affinity matrices
+- Start spectral clustering
+-- Rescaling volume matrix
+-- Estimated scaling parameter: 9424.500000
+-- Rescaling luminosity matrix
+-- Estimated scaling parameter: 5754.694518
+-- Guessed number of clusters = 102
+-- Number of k-means iteration: 1
+-- Best cluster number found through SILHOUETTE (0.912025)= 116
+Unassignable cluster 3
+Unassignable cluster 6
+Unassignable cluster 7
+Unassignable cluster 8
+Unassignable cluster 57
+-- Final cluster number (after cleaning) 111
+-- Final clustering configuration silhoutte 0.910260
+[08:24:12] snr_r15: 111 clouds in 2.0s, best-k silhouette (pre-cleaning)=0.912
+WARNING: FITSFixedWarning: 'obsfix' made the change 'Set OBSGEO-L to   -67.754929 from OBSGEO-[XYZ].
+Set OBSGEO-B to   -23.022886 from OBSGEO-[XYZ].
+Set OBSGEO-H to     5053.796 from OBSGEO-[XYZ]'. [astropy.wcs.wcs]
+[08:24:41] snr_r15: saved; 545 of 945 structures in clouds, 372 isolated single-leaf trunks not kept (save_isol_leaves=False)
+[08:24:42] snr_r5: 945 structures
+[08:25:33] snr_r5: adapter built, 709 leaves; running cloudstering()
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+- Creating affinity matrices
+- Start spectral clustering
+-- Rescaling volume matrix
+-- Estimated scaling parameter: 9424.500000
+-- Rescaling luminosity matrix
+-- Estimated scaling parameter: 5754.694518
+-- Guessed number of clusters = 102
+-- Number of k-means iteration: 1
+-- Best cluster number found through SILHOUETTE (0.912025)= 116
+Unassignable cluster 3
+Unassignable cluster 6
+Unassignable cluster 7
+Unassignable cluster 8
+Unassignable cluster 57
+-- Final cluster number (after cleaning) 111
+-- Final clustering configuration silhoutte 0.910260
+[08:25:36] snr_r5: 111 clouds in 2.8s, best-k silhouette (pre-cleaning)=0.912
+WARNING: FITSFixedWarning: 'obsfix' made the change 'Set OBSGEO-L to   -67.754929 from OBSGEO-[XYZ].
+Set OBSGEO-B to   -23.022886 from OBSGEO-[XYZ].
+Set OBSGEO-H to     5053.796 from OBSGEO-[XYZ]'. [astropy.wcs.wcs]
+[08:26:06] snr_r5: saved; 545 of 945 structures in clouds, 372 isolated single-leaf trunks not kept (save_isol_leaves=False)
+[08:26:07] snr_r10: 945 structures
+[08:27:00] snr_r10: adapter built, 709 leaves; running cloudstering()
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/Users/thummimm/miniconda3/lib/python3.12/site-packages/scimes/old_spectral_embedding.py:42: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+- Creating affinity matrices
+- Start spectral clustering
+-- Rescaling volume matrix
+-- Estimated scaling parameter: 9424.500000
+-- Rescaling luminosity matrix
+-- Estimated scaling parameter: 5754.694518
+-- Guessed number of clusters = 102
+-- Number of k-means iteration: 1
+-- Best cluster number found through SILHOUETTE (0.912025)= 116
+Unassignable cluster 3
+Unassignable cluster 6
+Unassignable cluster 7
+Unassignable cluster 8
+Unassignable cluster 57
+-- Final cluster number (after cleaning) 111
+-- Final clustering configuration silhoutte 0.910260
+[08:27:02] snr_r10: 111 clouds in 2.6s, best-k silhouette (pre-cleaning)=0.912
+WARNING: FITSFixedWarning: 'obsfix' made the change 'Set OBSGEO-L to   -67.754929 from OBSGEO-[XYZ].
+Set OBSGEO-B to   -23.022886 from OBSGEO-[XYZ].
+Set OBSGEO-H to     5053.796 from OBSGEO-[XYZ]'. [astropy.wcs.wcs]
+[08:27:34] snr_r10: saved; 545 of 945 structures in clouds, 372 isolated single-leaf trunks not kept (save_isol_leaves=False)
+      263.99 real        79.82 user        86.35 sys
+          7796609024  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+            44949355  page reclaims
+             4413556  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                5936  voluntary context switches
+             3164637  involuntary context switches
+        933112561070  instructions retired
+        322403263099  cycles elapsed
+          1479260288  peak memory footprint

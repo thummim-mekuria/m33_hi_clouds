@@ -1,0 +1,69 @@
+/Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr10d2_parallel_dendro min_value=10 min_delta=2 min_npix=5
+median sigma [K]: 0.0497
+loaded (473, 2381, 1351) voxels > min_value: 348366
+1,577 structures in 1090 s
+saved /Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr10d2_parallel_dendro
+     1152.55 real       155.78 user       384.29 sys
+         12278628352  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+           206642125  page reclaims
+              744988  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+             1960442  voluntary context switches
+             1722367  involuntary context switches
+       2342565752786  instructions retired
+       1060831689613  cycles elapsed
+         47566126016  peak memory footprint
+/Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr5d2_parallel_dendro min_value=5 min_delta=2 min_npix=5
+median sigma [K]: 0.0497
+loaded (473, 2381, 1351) voxels > min_value: 759604
+2,682 structures in 1106 s
+saved /Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr5d2_parallel_dendro
+     1158.28 real       158.21 user       374.47 sys
+         14687469568  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+           205329258  page reclaims
+              744397  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+             2004805  voluntary context switches
+             1723699  involuntary context switches
+       2340111186892  instructions retired
+       1035683349732  cycles elapsed
+         47572933568  peak memory footprint
+/Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr2d2_parallel_dendro min_value=2 min_delta=2 min_npix=5
+median sigma [K]: 0.0497
+loaded (473, 2381, 1351) voxels > min_value: 19441311
+32,368 structures in 1288 s
+saved /Users/thummimm/Documents/research/data/maps/m33_all_co21_8p0as_snr2d2_parallel_dendro
+     1344.39 real       262.99 user       411.53 sys
+         13104693248  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+           225528349  page reclaims
+              743777  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+             1934474  voluntary context switches
+             2274305  involuntary context switches
+       2896085290036  instructions retired
+       1153096527867  cycles elapsed
+         47720067328  peak memory footprint
